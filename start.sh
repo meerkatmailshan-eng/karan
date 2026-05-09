@@ -1,4 +1,2 @@
 #!/bin/bash
-python laxxyscript.py
-python-telegram-bot
-python-gitlab
+python bot.py
